@@ -1,2 +1,2 @@
 # hanoi
-Алгоритм решения головоломки "Башни Ханоя"
+My alternative algorithm for solving the puzzle "Towers of Hanoi"
